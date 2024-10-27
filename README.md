@@ -1,7 +1,6 @@
 
 # Template de Landing Page para Portfólio
 
-Bem-vindo ao **Template de Landing Page para Portfólio**, um projeto gratuito que desenvolvi para ajudar freelancers, desenvolvedores e designers a criarem portfólios profissionais e impactantes. Este template é uma solução fácil de implementar e pode ser utilizada tanto para seu próprio portfólio quanto para vender como um serviço para seus clientes.
 
 ## 🖥️ Demonstração
 
